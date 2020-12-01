@@ -15,6 +15,34 @@ Here is a link to me LinkedIn account [Link](https://www.linkedin.com/in/jack--k
 5. Dark Souls 2
 
 
+
 - [ ] Finish Website
 - [x] Complete Assignment Research 
 - [ ] Complete Assignment
+
+
+int main()
+{
+	if (loveCoding())
+	{
+		cout << "I love coding C++" << endl;
+	}
+
+	addTwoNums(10, 5);
+
+	int my_num1 = 2, my_num2 = 4;
+
+	addTwoNums(my_num1, my_num2);
+	addTwoNums(my_num1, 12);
+
+	int result = addTwoNumbers(5, 5);
+
+	cout << "\nThe result is: " << result << endl;
+
+	//int result2 = addTwoNums(12, 12);
+
+	return 0;
+}
+
+
+:smile: :thumbsup:
