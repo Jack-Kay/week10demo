@@ -6,7 +6,7 @@ Here is a link to me LinkedIn account [Link](https://www.linkedin.com/in/jack--k
 
 ![Octocat](https://i.redd.it/erdjqzlmlv111.png)
 
-
+## Order List
 
 1. Ghost of Tsushima
 2. Final Fantasy XIV
@@ -14,12 +14,13 @@ Here is a link to me LinkedIn account [Link](https://www.linkedin.com/in/jack--k
 4. Dead By Daylight
 5. Dark Souls 2
 
-
+## Checklist
 
 - [ ] Finish Website
 - [x] Complete Assignment Research 
 - [ ] Complete Assignment
 
+## Code
 
 int main()
 {
