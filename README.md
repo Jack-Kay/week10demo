@@ -13,3 +13,8 @@ Here is a link to me LinkedIn account [Link](https://www.linkedin.com/in/jack--k
 3. Death Stranding
 4. Dead By Daylight
 5. Dark Souls 2
+
+
+- [ ] Finish Website
+- [x] Complete Assignment Research 
+- [ ] Complete Assignment
